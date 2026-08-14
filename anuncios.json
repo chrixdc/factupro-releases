@@ -1,8 +1,42 @@
 {
-  "_nota": "Generado por el panel de anuncios. Se puede editar a mano, pero es más fácil con: npm run anuncios",
+  "_nota": "Generado por el panel de anuncios. Ábrelo con: npm run anuncios",
   "anuncios": [
     {
       "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/anuncio-factopro.png"
+    },
+    {
+      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/diseno-mssn0igq.png",
+      "diseno": {
+        "fondo": {
+          "tipo": "solido",
+          "color": "#000000",
+          "deg1": "#7A1F3D",
+          "deg2": "#E0245E",
+          "ang": 30,
+          "img": "",
+          "zoom": 100,
+          "x": 39,
+          "y": -24,
+          "oscuro": 49
+        },
+        "textos": [
+          {
+            "txt": "MAX",
+            "fuente": "Verdana, sans-serif",
+            "tam": 60,
+            "peso": 900,
+            "color": "#FFFFFF",
+            "x": 455,
+            "y": 93
+          }
+        ],
+        "logo": {
+          "tipo": "completo",
+          "tam": 69,
+          "x": 246,
+          "y": 79
+        }
+      }
     }
   ]
 }
