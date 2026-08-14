@@ -8,6 +8,12 @@
     {
       "titulo": "FactuPro",
       "descripcion": "La Mejor App De facturas"
+    },
+    {
+      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/rodexi.jpg"
+    },
+    {
+      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/argoscore.png2.png"
     }
   ]
 }
