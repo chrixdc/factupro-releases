@@ -23,6 +23,10 @@
     },
     {
       "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/anuncio-1.png"
+    },
+    {
+      "titulo": "READY",
+      "descripcion": "Listo"
     }
   ]
 }
