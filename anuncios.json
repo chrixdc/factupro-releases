@@ -5,36 +5,48 @@
       "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/anuncio-factopro.png"
     },
     {
-      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/diseno-mssn0igq.png",
+      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/diseno-mssn0igq.png"
+    },
+    {
+      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/diseno-mssnfsii.png",
       "diseno": {
         "fondo": {
           "tipo": "solido",
-          "color": "#000000",
-          "deg1": "#7A1F3D",
-          "deg2": "#E0245E",
-          "ang": 30,
+          "color": "#ffffff",
+          "deg1": "#ffffff",
+          "deg2": "#ffffff",
+          "ang": 0,
           "img": "",
           "zoom": 100,
-          "x": 39,
-          "y": -24,
-          "oscuro": 49
+          "x": 0,
+          "y": 0,
+          "oscuro": 35
         },
         "textos": [
           {
-            "txt": "MAX",
-            "fuente": "Verdana, sans-serif",
-            "tam": 60,
-            "peso": 900,
-            "color": "#FFFFFF",
-            "x": 455,
-            "y": 93
+            "txt": "Facturar es más fácil",
+            "fuente": "\"Segoe UI\", system-ui, sans-serif",
+            "tam": 36,
+            "peso": 500,
+            "color": "#041539",
+            "x": 202,
+            "y": 52
+          },
+          {
+            "txt": "Con FactuPro",
+            "fuente": "\"Segoe UI\", system-ui, sans-serif",
+            "tam": 43,
+            "peso": 600,
+            "color": "#025bfc",
+            "x": 200,
+            "y": 92
           }
         ],
         "logo": {
-          "tipo": "completo",
-          "tam": 69,
-          "x": 246,
-          "y": 79
+          "tipo": "f",
+          "tam": 100,
+          "x": 115,
+          "y": 81
         }
       }
     }
