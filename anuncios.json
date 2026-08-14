@@ -1,0 +1,12 @@
+{
+  "_nota": "Cambia este archivo para cambiar los anuncios del plan Gratis. No hace falta publicar version nueva: cada FactuPro lo mira al abrir y cada 6 horas.",
+  "_como": "titulo y descripcion son texto. imagen debe estar en este mismo repositorio. hasta es opcional: pasada esa fecha el anuncio desaparece solo.",
+  "anuncios": [
+    { "titulo": "Cobra lo que te deben", "descripcion": "Fiado y abonos al dia" },
+    { "titulo": "Controla tus suplidores", "descripcion": "Compras, deudas y costos" },
+    { "titulo": "Mira todo el mes", "descripcion": "Reportes con historial" },
+    { "titulo": "Tickets con tu nombre", "descripcion": "Sin nuestra marca" },
+    { "titulo": "FactuPro completo", "descripcion": "Activalo con Argos Core" },
+    { "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/anuncio-1.png" }
+  ]
+}
