@@ -2,9 +2,6 @@
   "_nota": "Generado por el panel de anuncios. Se puede editar a mano, pero es más fácil con: npm run anuncios",
   "anuncios": [
     {
-      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/anuncio-1.png"
-    },
-    {
       "titulo": "READY",
       "descripcion": "Listo"
     },
