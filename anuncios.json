@@ -5,9 +5,6 @@
       "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/anuncio-factopro.png"
     },
     {
-      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/diseno-mssn0igq.png"
-    },
-    {
       "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/diseno-mssnfsii.png",
       "diseno": {
         "fondo": {
@@ -51,14 +48,14 @@
       }
     },
     {
-      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/diseno-msstqbp6.png",
+      "imagen": "https://raw.githubusercontent.com/chrixdc/factupro-releases/main/anuncios/diseno-msvhqw64.png",
       "diseno": {
         "fondo": {
-          "tipo": "degradado",
-          "color": "#000000",
+          "tipo": "solido",
+          "color": "#ffffff",
           "deg1": "#12245A",
           "deg2": "#2E5BFF",
-          "ang": 90,
+          "ang": 124,
           "img": "",
           "zoom": 100,
           "x": 0,
@@ -67,14 +64,23 @@
         },
         "capas": [
           {
+            "tipo": "logo",
+            "cual": "f",
+            "x": 95,
+            "y": 28,
+            "w": 138,
+            "h": 111,
+            "op": 100
+          },
+          {
             "tipo": "texto",
-            "txt": "FACTUPRO MAX",
-            "x": 53,
-            "y": 44,
-            "tam": 73,
-            "peso": 700,
-            "fuente": "\"Segoe UI\", system-ui, sans-serif",
-            "color": "#FFFFFF",
+            "txt": "MAX",
+            "x": 246,
+            "y": 26,
+            "tam": 140,
+            "peso": 600,
+            "fuente": "Verdana, sans-serif",
+            "color": "#015eff",
             "op": 100
           }
         ]
